@@ -1,5 +1,5 @@
 {
-  "name": "social-network-api",
+  "name": "social-network-api-ralph",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deckiedevs/social-network-api.git"
+    "url": "git+https://github.com/ralphmenard0/"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deckiedevs/social-network-api/issues"
+    "url": "https://github.com/ralphmenard0/"
   },
-  "homepage": "https://github.com/deckiedevs/social-network-api#readme"
+  "homepage": "https://github.com/ralphmenard0/"
 }
